@@ -1,0 +1,14 @@
+.center-block {
+  display: block;
+  margin-left: 25%;
+  margin-top:4%;
+  width:50%;
+  border:5px;
+  color:black;
+  background-color:wheat;
+  padding:8%;
+  box-shadow: 10px 10px 15px grey;
+}
+
+
+

@@ -1,0 +1,27 @@
+a{
+    color:white;
+    padding-left:10px;
+    text-decoration: none;
+}   
+.register{
+    padding-left:40%;
+    font-size: 20px;
+    display: inline-block
+}
+.home{
+    padding-left:20%;
+    font-size:20px;
+    display: inline-block
+}
+.mainnav{
+    height: 30px;
+    width:100%;
+    background-color: darkslategrey;
+    color:whitesmoke;
+}
+.sign{
+    padding-left:5%;
+    font-size: 20px;
+    display: inline-block
+    
+}
